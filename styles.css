@@ -1,0 +1,90 @@
+
+.header{
+    background-color: blueviolet;
+
+text-align: center;
+
+
+padding: 2%;
+padding-right: 20px;
+border: width 50px;
+border-color: blues;
+padding-left
+
+   
+}
+
+.section{
+    background-color: coral;
+    border: 100px;
+    margin: 30px;
+    padding: 5%;
+
+
+}
+
+.estados{
+
+margin: left 10%;
+margin: right 10px;
+text-align: center;
+    
+
+
+}
+.nav{
+    background-color: rgb(187, 232, 110);
+    
+    margin: left 10%;
+    margin: right 10px;
+    text-align: center;
+    
+
+
+}
+
+.footer{
+   
+    background-color: darkgreen;
+    text-align: center;
+  
+   
+
+}
+
+.form{
+    display: flex;
+    justify-content: center;
+    margin-top: 10%;
+    text-align: center;
+
+}
+
+.input{
+    padding: 10px 10px;
+    background-color: blueviolet;
+    border: 5;
+    border-radius: 10px;
+    outline:auto;
+}
+
+.btn-3{
+    background-color: chartreuse;
+    cursor: pointer;
+    margin-right: 0;
+}
+
+.tarea{
+    background-color: rgb(255, 47, 248);
+    cursor: pointer;
+    margin-right: 0;
+    text-align: center;
+
+}
+
+.ultimo{
+
+    text-align: center;
+    background-color: brown;
+}
+
